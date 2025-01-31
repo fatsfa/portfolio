@@ -13,8 +13,21 @@ const MyWork = () => {
             <img src={theme_pattern} alt=''/>
         </div>
         <div className="mywork-container">
-            <img src ={todo} alt=''/>
+        
             <img src ={recipe} alt=''/>
+            <img src ={todo} alt=''/>
+            <p>The Recipe App which provides step by step instruction of cooking an item. It also gives the quantity of each item required.</p>
+            <p>The simple todo app where we can add task to the list and remove the item once task is completed.</p>
+            <a href="https://recipeapp-l4by.vercel.app" target='_blank'>
+                  <div>view project </div>       
+                  </a>
+           
+            <a href="https://todo-seven-ivory.vercel.app" target='_blank'>
+                  <div>view project</div>       
+                  </a>
+                  
+                 
+             
         </div>
         
     </div>

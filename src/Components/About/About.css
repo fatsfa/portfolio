@@ -31,6 +31,7 @@
     gap: 20px;
     font-size: 24px;
     font-weight: 500;
+    line-height: 35px;
 }
 .about-skills{
     display: flex;
@@ -74,6 +75,7 @@
     .about-title p{
         font-size: 18px;
         line-height: 32px;
+        
     }
     .about-skill{
         gap: 20px;
@@ -85,6 +87,11 @@
     }
     .about-skill hr{
         height: 6px;
+    }
+    .about-para{
+        font-size: 18px;
+        line-height: 32px;
+        max-width: 550px;
     }
     
 }

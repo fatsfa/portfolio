@@ -11,7 +11,7 @@ const About = () => {
     </div>
     <div className="about-sections">
         <div className="about-para">
-            <p>I am a frontend developer passionate about creating interactive applications and experiences on web.</p>
+            <p>I am a frontend developer with M.tech Computer Science and Engineering, passionate about creating interactive apps and experiences on web.</p>
         </div>
         <div className="about-skills">
         <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}}/></div>
