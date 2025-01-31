@@ -3,7 +3,7 @@ import './MyWork.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import todo from '../../assets/todo.png'
 import recipe from '../../assets/recipe.png'
-import arrow_icon from '../../assets/arrow_icon.svg'
+
 
 const MyWork = () => {
   return (
