@@ -11,8 +11,8 @@ const About = () => {
     </div>
     <div className="about-sections">
         <div className="about-para">
-        <p>I am a fresher Full-Stack Developer with an M.Tech in Computer Science and Engineering, focused on building clean and practical web applications.</p>
-        <p>I have intermediate knowledge of React, Node.js, Express.js, and MongoDB, and I enjoy learning by building real-world projects end to end.</p>
+        <p>I am a Full-Stack Developer with an M.Tech in Computer Science and Engineering, focused on building clean and practical web applications.</p>
+        <p>I have knowledge in React, Node.js, Express.js, and MongoDB, and I enjoy learning by building real-world projects end to end.</p>
         </div>
         <div className="about-skills">
       <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"72%"}}/></div>

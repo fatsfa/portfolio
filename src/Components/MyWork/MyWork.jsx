@@ -27,7 +27,7 @@ const projects = [
     image: mamacare,
     description:
       'A full-stack healthcare-focused web app built using React, Node.js, Express, and MongoDB with deployment on Render.',
-    link: 'https://mamacare-fsli.onrender.com/'
+    link: 'https://mamacare-fsli-6xdv.onrender.com/'
   },
   {
     title: 'Video App',
